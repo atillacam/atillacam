@@ -1,76 +1,81 @@
-<!-- Dynamic Banner -->
+<!-- Dynamic Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=220&section=header&text=Computer%20Engineer&fontSize=40&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descSize=20&fontColor=ffffff&descAlignY=70" width="100%" />
 </p>
 
 <!-- Typing Animation -->
 <h1 align="center">Hi 👋, I'm Atilla ÇAM</h1>
-<h3 align="center">A passionate Computer Engineer from Türkiye 🇹🇷</h3>
+<h3 align="center">A passionate Computer Engineer & AI Enthusiast from Türkiye 🇹🇷</h3>
 
 <p align="center">
   <a href="https://github.com/atillacam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4287f5&center=true&vCenter=true&width=500&lines=Computer+Engineering;Artificial+Intelligence;Software+Development;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4287f5&center=true&vCenter=true&width=650&lines=Computer+Engineering;Artificial+Intelligence+(AI);Backend+%26+Software+Development;Building+Scalable+Systems;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
----
+<br/>
 
-### 🙋‍♂️ About Me
+### 👨‍💻 About Me
 
-Hello! I'm Atilla, a Computer Engineer dedicated to building intelligent, maintainable, and scalable software solutions. 
+Hello! I'm Atilla, a dedicated **Computer Engineer** focused on building intelligent, maintainable, and scalable software solutions. I thrive on solving complex problems and turning innovative ideas into clean, efficient code.
 
-* 💻 Passionate about **Software Engineering** and writing clean, efficient code.
-* 🤖 Deeply interested in **Artificial Intelligence**, machine learning, and AI-driven applications.
-* ⚙️ Exploring modern software architectures and backend development.
-* 🚀 Constantly improving my engineering skills by turning complex ideas into working software.
+* 🧠 Deeply interested in **Artificial Intelligence**, Machine Learning, and AI-driven automation.
+* 💻 Passionate about **Software Architecture**, backend development, and containerization.
+* 🌱 Currently focusing on modern frameworks, system optimization, and intelligent API integrations.
+* 🚀 Constantly learning and improving my engineering skills to build robust applications.
 
----
+<br/>
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Tools
 
-<!-- Buradaki ikonları bana dillerini söylediğinde güncelleyeceğiz, şimdilik en popüler AI ve mühendislik dillerini koydum -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,git,github,vscode,docker,linux&perline=10" />
+    <!-- Python, C, C++, C#, Java, JS, TS, Node, React, Postgres, MySQL, Docker, Linux, Git, GitHub, VSCode -->
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts,nodejs,react,postgres,mysql,docker,linux,git,github,vscode&perline=8" />
   </a>
 </p>
 
----
+<br/>
 
-### 🚀 Areas of Interest
+### 🚀 Areas of Expertise
 
 <table>
   <tr>
     <td width="50%">
       <h3>🤖 Artificial Intelligence</h3>
-      <p>Exploring AI integration, LLMs, prompt engineering, and intelligent software automation.</p>
+      <p>Exploring AI integration, LLMs, prompt engineering, and intelligent software automation to solve real-world problems.</p>
     </td>
     <td width="50%">
       <h3>⚙️ Software Engineering</h3>
-      <p>Designing scalable systems, writing clean code, and building robust applications.</p>
+      <p>Designing scalable systems, writing clean and maintainable code, and building robust, production-ready applications.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🌐 Backend Development</h3>
-      <p>Developing APIs, server-side logic, and managing databases.</p>
+      <h3>🐳 DevOps & Architecture</h3>
+      <p>Utilizing Docker for containerization, managing Linux environments, and structuring efficient development workflows.</p>
     </td>
     <td width="50%">
-      <h3>📊 Data & Algorithms</h3>
-      <p>Working with complex data structures, optimizing algorithms, and problem-solving.</p>
+      <h3>🌐 Backend Development</h3>
+      <p>Developing secure APIs, handling server-side logic, and managing relational/non-relational databases efficiently.</p>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Statistics
+### 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/atillacam">
-    <img src="https://github-readme-stats.vercel.app/api?username=atillacam&show_icons=true&theme=transparent&hide_border=true&title_color=4287f5&icon_color=4287f5&v=1" height="160" alt="stat graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=atillacam&show_icons=true&theme=transparent&hide_border=true&title_color=4287f5&icon_color=4287f5&v=3" height="165" alt="stat graph" />
   </a>
   <a href="https://github.com/atillacam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atillacam&theme=transparent&hide_border=true&title_color=4287f5&icon_color=4287f5&v=1" height="160" alt="streak graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atillacam&theme=transparent&hide_border=true&title_color=4287f5&icon_color=4287f5&v=3" height="165" alt="streak graph" />
   </a>
+</p>
+
+<!-- Dynamic Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=100&section=footer" width="100%" />
 </p>
