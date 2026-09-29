@@ -3,9 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=220&section=header&text=Computer%20Engineer&fontSize=40&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descSize=20&fontColor=ffffff&descAlignY=70" width="100%" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation & Visitor Badge -->
 <h1 align="center">Hi 👋, I'm Atilla ÇAM</h1>
 <h3 align="center">A passionate Computer Engineer & AI Enthusiast from Türkiye 🇹🇷</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atillacam&color=4287f5&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+</p>
 
 <p align="center">
   <a href="https://github.com/atillacam">
@@ -26,13 +30,36 @@ Hello! I'm Atilla, a dedicated **Computer Engineer** focused on building intelli
 
 <br/>
 
+### 🏆 GitHub Trophies
+
+<!-- Bu bölüm senin commit, issue, pull request gibi etkinliklerine göre sana otomatik kupa verir -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=atillacam&theme=transparent&no-frame=true&no-bg=true&margin-w=15" alt="atillacam trophies" />
+  </a>
+</p>
+
+<br/>
+
 ### 🛠 Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Python, C, C++, C#, Java, JS, TS, Node, React, Postgres, MySQL, Docker, Linux, Git, GitHub, VSCode -->
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts,nodejs,react,postgres,mysql,docker,linux,git,github,vscode&perline=8" />
   </a>
+</p>
+
+<br/>
+
+### 🐍 GitHub Contribution Snake
+
+<!-- Yılanın senin grafiğini yediği animasyon (Aşağıdaki adımları uyguladığında aktif olacak) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atillacam/atillacam/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atillacam/atillacam/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atillacam/atillacam/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <br/>
@@ -57,7 +84,7 @@ Hello! I'm Atilla, a dedicated **Computer Engineer** focused on building intelli
     </td>
     <td width="50%">
       <h3>🌐 Backend Development</h3>
-      <p>Developing secure APIs, handling server-side logic, and managing relational/non-relational databases efficiently.</p>
+      <p>Developing secure APIs, handling server-side logic, and managing databases efficiently.</p>
     </td>
   </tr>
 </table>
@@ -68,11 +95,18 @@ Hello! I'm Atilla, a dedicated **Computer Engineer** focused on building intelli
 
 <p align="center">
   <a href="https://github.com/atillacam">
-    <img src="https://github-readme-stats.vercel.app/api?username=atillacam&show_icons=true&theme=transparent&hide_border=true&title_color=4287f5&icon_color=4287f5&v=3" height="165" alt="stat graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=atillacam&show_icons=true&theme=transparent&hide_border=true&title_color=4287f5&icon_color=4287f5&v=4" height="165" alt="stat graph" />
   </a>
   <a href="https://github.com/atillacam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atillacam&theme=transparent&hide_border=true&title_color=4287f5&icon_color=4287f5&v=3" height="165" alt="streak graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atillacam&theme=transparent&hide_border=true&title_color=4287f5&icon_color=4287f5&v=4" height="165" alt="streak graph" />
   </a>
+</p>
+
+<br/>
+
+<!-- Rastgele değişen yazılımcı sözü kartı -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Programming Quote" />
 </p>
 
 <!-- Dynamic Footer -->
