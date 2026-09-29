@@ -68,14 +68,9 @@ Hello! I'm Atilla, a Computer Engineer dedicated to building intelligent, mainta
 
 <p align="center">
   <a href="https://github.com/atillacam">
-    <img src="https://github-readme-stats.vercel.app/api?username=atillacam&show_icons=true&theme=transparent&hide_border=true&title_color=4287f5&icon_color=4287f5" height="160" alt="stat graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=atillacam&show_icons=true&theme=transparent&hide_border=true&title_color=4287f5&icon_color=4287f5&cache_seconds=86400" height="160" alt="stat graph" />
   </a>
   <a href="https://github.com/atillacam">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=atillacam&theme=transparent&hide_border=true&title_color=4287f5&icon_color=4287f5" height="160" alt="streak graph" />
   </a>
-</p>
-
-<!-- Dynamic Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=100&section=footer" width="100%" />
 </p>
