@@ -64,6 +64,10 @@ Hello! I'm Atilla, a dedicated **Computer Engineer** focused on building intelli
 
 <br/>
 
+### 🏙️ 3D Github Katkı Grafiğim
+![3D Katkı Grafiği](profile-3d-contrib/profile-night-view.svg)
+
+
 ### 🚀 Areas of Expertise
 
 <table>
