@@ -30,6 +30,32 @@ Hello! I'm Atilla, a dedicated **Computer Engineer** focused on building intelli
 
 <br/>
 
+### 🎮 3D Interactive Portfolio
+
+<p align="center">
+  <a href="https://atillacam.com">
+    <img src="https://raw.githubusercontent.com/atillacam/atillacam.com/main/public/og-image.png" width="85%" alt="atillacam.com — drivable 3D portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://atillacam.com"><img src="https://img.shields.io/badge/Live-atillacam.com-4287f5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site" /></a>
+  <a href="https://github.com/atillacam/atillacam.com"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+My personal website is a small open world you explore by car: drive between project boards, race against the clock, leave a whisper for the next visitor and discover a few secrets along the way.
+
+* 🚗 **Real vehicle physics** with Rapier — suspension, drifting, boost and self-righting
+* 🌦️ **Living world** — day/night cycle, rain & snow, a lake, birds and procedural music generated with Web Audio
+* 🗺️ **GPS navigation**, fog-of-war map, race track with a world leaderboard, football pitch, bowling and a shader lab
+* 🌐 Turkish / English, mobile joystick, gamepad support and a classic accessible view
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,threejs,vite,js&perline=4" alt="React, Three.js, Vite, JavaScript" />
+</p>
+
+<br/>
+
 ### 🏆 GitHub Trophies
 
 <!-- Bu bölüm senin commit, issue, pull request gibi etkinliklerine göre sana otomatik kupa verir -->
